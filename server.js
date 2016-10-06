@@ -5,7 +5,7 @@ app.get('/', function(request, response){
     response.send('Hello MGT-660!');
 });
 
-app.get('/empty179', function(request, response){
+app.get('/nickname', function(request, response){
     response.send('exuberant-rhinoceros');
 });
 
